@@ -26,5 +26,9 @@ The averages are taken from various sensors located around the plant that record
 </p>
 
 <h2>Evaluation of the model with R<sup>2</sup> score</h2>
+
 R<sup>2</sup> score the model turns out to be = 0.943900808510774
   
+<br><br>
+<p> For more information on the dataset visit: http://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant
+  </p>
